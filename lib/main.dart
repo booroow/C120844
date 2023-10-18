@@ -5,7 +5,7 @@ void main() => runApp(MaterialApp(
       home: Scaffold(
         backgroundColor: Colors.grey[300],
         appBar: AppBar(
-          title: Text("Kfc Chicken and Pizza"),
+          title: Text("Kfc Chicken and Pizza!"),
           centerTitle: true,
           backgroundColor: Colors.deepOrangeAccent,
         ),
